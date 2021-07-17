@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background: url("https://g8x8h7k6.rocketcdn.me/wp-content/uploads/2021/04/halal-bacon.jpeg.webp");
+  background-repeat: no-repeat;
+  background-color: #f6e5e9;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+h1 span {
+  transition: .5s linear
+}
+
+h1:hover span {
+  color: #fff;
+}
+
+.p1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.p2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted 7px;
+  border-color: #4a1c40;
+  border-bottom: none;
+  width: 20%;
+}
